@@ -18,6 +18,7 @@ Notes for VR Quiz 2 based on Revision Lecture
 - Quest 2, Valve Index are examples of VR Headsets that can cast digital content straight into the eyes of the user, immersing them and cutting their visual experience off from the real world.
 #### Extended Reality XR
 - This mainly involves experiences that involves the convergence of AR, VR, and MR technologies.
+- This refers to the theoretical space between the real environment and the virtual environment.
 #### Mixed Reality MR
 - Mixed reality involves blending virtual content with the physical environment, enabling interaction with the 2.
 - It involves anchoring virtual objects to real-world surfaces to allow users to interact with them as if they were real.
