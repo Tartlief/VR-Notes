@@ -80,7 +80,46 @@
 - Establish a max-width for all content, to ensure an invisible box will ensure elements are aligned whether they are pushed to the left or the right side.
 
 ### Typography
+- Display text on the screen
+    - Key decisions: font and spacing
+- Font Design Elements
+    - X-height
+    - Ascender/Descenders
+    - Point
+    - Leading
+    - Serifs
+    - Kerning
+
+- Spacing Guidelines
+    - Always use whitespace
+    - Use generous leading
+    - Keep text paragraphs narrow
+
+- Typeface
+    - Refers to a family of fonts that share the same name.
+- Font Selection
+
+#### Design Considerations
+    - Eye Tracking
+    - Easy Scanning
+    - Above the Fold
 
 ### Grid Layout
+- Grids
+        - Help with the placement and alignment of all visual objects
+        - Help to scan and understand a page quickly.
+        - Helps to guide the eyes and reduce clutter.
+
+#### Rule of Thirds
+- Theory that dictates how an image should be composed in order to create an aesthetically pleasing result.
 
 ### Color Theory
+- Practical guidance to color mixing and the visual effects of specific color combinations
+- Avoid simultaneous display of highly saturated, spectrally extreme colors.
+    - use pastel colors
+    - Unless to draw attention to something.
+- Be consistent with conventions and expectations.
+    - Red means stop/bad/error/attention
+    - Green means go.
+- Use fewer colors
+    - To prevent complex, clutter.
